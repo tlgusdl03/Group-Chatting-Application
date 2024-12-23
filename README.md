@@ -20,7 +20,7 @@
 
 ## 사용 방법
 - 회원가입/로그인을 진행함
-- ![image](https://github.com/user-attachments/assets/3b5758e8-db4e-40b4-b758-0ba9c5563948)
+  ![image](https://github.com/user-attachments/assets/3b5758e8-db4e-40b4-b758-0ba9c5563948)
 - 왼쪽은 현재 서버에 접속한 유저 목록, 오른쪽은 현재 활성화 된 채팅방 목록을 나타냄
-- ![image](https://github.com/user-attachments/assets/730acb76-a4bf-41e2-8d74-6c8995707098)
+  ![image](https://github.com/user-attachments/assets/730acb76-a4bf-41e2-8d74-6c8995707098)
 - 왼쪽은 현재 채팅방에 접속한 유저 목록, 오른쪽은 채팅 내역을 나타냄
